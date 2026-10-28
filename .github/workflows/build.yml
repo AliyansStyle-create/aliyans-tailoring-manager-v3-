@@ -1,6 +1,6 @@
 name: Build Aliyans Tailoring Manager V3 APK
 
-on:
+'on':
 workflow_dispatch:
 push:
 branches:
